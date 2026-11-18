@@ -1,0 +1,6 @@
+{
+  "appId": "com.e7taudio.vault",
+  "appName": "E7T AUDIO",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
